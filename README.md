@@ -16,3 +16,5 @@ Zoom Webinar Daily Usage Report
      - dashboard_webinars:read:admin
 3. Run `docker compose run --rm --build app`
 4. Enjoy!
+
+[Click here to watch a video tutorial on getting started](https://www.youtube.com/watch?v=Mbk8y3UbvMc)
